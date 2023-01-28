@@ -1,0 +1,3 @@
+mean:                 60.60
+standard deviation:   21.19
+median:               63.58
